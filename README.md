@@ -268,19 +268,3 @@ DAX (Measures & Calculated Columns)
 
 Map Visuals, Slicers, Hierarchies, Tooltips
 
-🚀 How to Use
-
-Download the PBIX file from this repository.
-
-Open in Power BI Desktop.
-
-Use slicers (Airline, Route, City, Date, Delay Type) to explore the insights.
-
-🤝 Contributions
-
-Contributions, issues, and suggestions are welcome!
-Feel free to open a PR or raise an issue.
-
-⭐ If you liked this dashboard…
-
-Give this repository a star ⭐ on GitHub — it helps a lot!
